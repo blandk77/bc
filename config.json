@@ -8,19 +8,11 @@
         "run": "main.py"
     },
     "bot2": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://blandk77: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@github.com/blandk77/zipbot",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "7671156339:AAGlCKp-lgy0i_Nnibr9TEImPPDvvYJw9iE"
         },
-        "run": "run.sh"
-    },
-    "bot3": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
+        "run": "src/bot.py"
     }
 }

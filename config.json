@@ -1,11 +1,11 @@
 {   
     "bot1": {
-        "source": "repo_link",
+        "source": "https://github.com/blandk77/FileStore",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "TG_BOT_TOKEN": "7658357765:AAFNojY3QWjcLUvT17D5RYv1ZQFwhSQHCEA"
         },
-        "run": "run.sh"
+        "run": "main.py"
     },
     "bot2": {
         "source": "repo_link",
@@ -16,46 +16,6 @@
         "run": "run.sh"
     },
     "bot3": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot4": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
         "source": "repo_link",
         "branch": "master",
         "env": {
